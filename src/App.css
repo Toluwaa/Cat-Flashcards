@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.flashcardsList {
+  justify-content: center;
+  display: flex;
+}
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid whitesmoke;
+  border-radius: 20px;
+  box-shadow: 5px;
+  height: 350px;
+  width: 350px;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
